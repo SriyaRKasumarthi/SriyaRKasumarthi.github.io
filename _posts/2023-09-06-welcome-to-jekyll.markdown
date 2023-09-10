@@ -28,5 +28,5 @@ I also wants to capture the weight and pressure life can place on our
 shoulders, as if you are alone in your struggles. 
 The cityscape itself is a character, evoking a unique blend of energy and 
 isolation that I find deeply compelling."
-![drawing of cityscape](/assets/images/cityscape.JPG)
+![drawing of cityscape](/assets/images/cityscape.jpg)
 
