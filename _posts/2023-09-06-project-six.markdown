@@ -14,6 +14,6 @@ The posts labeled "User Journey and Personas" and "Wireframes" are also
 based on this same project.
 
 
-<object data="/assets/pdfs/lowFidelityPrototype.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/assets/pdfs/lowFidelityPrototype2.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
