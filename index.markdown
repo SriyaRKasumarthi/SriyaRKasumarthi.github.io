@@ -4,3 +4,12 @@
 
 layout: home
 ---
+Hello, welcome to my portfolio! 
+
+
+I believe that exceptional design isn't just about 
+aesthetics; it's about solving real problems and 
+enhancing the lives of users.
+
+I have listed some of my project below and have many more 
+in the works right now!
